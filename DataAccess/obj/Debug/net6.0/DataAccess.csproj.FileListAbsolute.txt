@@ -1,0 +1,17 @@
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\Yusuf\Desktop\Enoca\enocaTask\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
