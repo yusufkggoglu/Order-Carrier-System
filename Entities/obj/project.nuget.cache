@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sLz8tpVcsgUZPqbRB/PwOrNLuqP2QIsLXmA8AD9mDlHxxRX+zasfgXUIpxUNJM2BEAux0yp5R62iLjTYmFtTSg==",
+  "dgSpecHash": "j1aXUHGAELLMZ9Qw5rGXHBMncmLqjqHuqsM6rwnJa3PDMaGMRwsbxEWrZrLwpuZpUnmoBt5YyJjSkQDym5sUUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yusuf\\Desktop\\Enoca\\enocaTask\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Yusuf\\Desktop\\docs\\enoca\\enocaTask\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yusuf\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Yusuf\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",

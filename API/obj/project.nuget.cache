@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ePZVKJvSZdtCyvDObLhcAV9elM/ctBXSzysqp9134okbrBH7rOerN1lsBWTQcaw4mT3rjBRb/BzfLDQB4q7pww==",
+  "dgSpecHash": "PhbD0tWn+Yx9mpI2x209ysi7jvQwT2vBhcFLphdtdATE+yJuj5jLGiQEQCbOScGB3VaClQPGi/ATNxAotndWBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yusuf\\Desktop\\Enoca\\enocaTask\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Yusuf\\Desktop\\docs\\enoca\\enocaTask\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yusuf\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Yusuf\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
